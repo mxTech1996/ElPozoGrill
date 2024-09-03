@@ -1,19 +1,16 @@
-
-export const pageName = "ElPozoGrill";
-export const primaryColor = "#000000";
-export const backgroundColor = "#FFFFFF";
+export const pageName = 'ElPozoGrill';
+export const primaryColor = '#BDBBBB';
+export const backgroundColor = '#FFFFFF';
 export const makeClearBackground = (color) => {
   return {
     backgroundColor: color,
-  }
-}
-
-
+  };
+};
 
 export const navData = [
   {
     href: '/#products',
-    label: "Let's start!",
+    label: 'Our Courses',
   },
   {
     href: '/#our-services',
@@ -23,8 +20,15 @@ export const navData = [
     href: '/#references',
     label: 'References',
   },
+  {
+    href: '/#know-us',
+    label: 'Know Us',
+  },
+  {
+    href: '/more-information',
+    label: 'Contact',
+  },
 ];
-
 export const footerData = [
   {
     href: '/pdf/AP-MESANEX-MAYO-2024.pdf',
