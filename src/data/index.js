@@ -1,5 +1,5 @@
 export const pageName = 'ElPozoGrill';
-export const primaryColor = '#BDBBBB';
+export const primaryColor = '#fff';
 export const backgroundColor = '#F6C799';
 export const makeClearBackground = (color) => {
   return {
