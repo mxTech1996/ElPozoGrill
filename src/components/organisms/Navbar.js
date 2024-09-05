@@ -40,7 +40,7 @@ const Navbar = () => {
       stylesContentLink={{
         alignItems: 'center',
         justifyContent: 'center',
-        backgroundColor: '#BABABA',
+        backgroundColor: '#F6C799',
       }}
     />
   );
