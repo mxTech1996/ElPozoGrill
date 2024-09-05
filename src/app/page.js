@@ -20,7 +20,7 @@ export default function Home() {
   return (
     <main
       style={{
-        backgroundColor: '#2C9DF3',
+        backgroundColor: '#F2AE6A',
       }}
     >
       <Navbar />
