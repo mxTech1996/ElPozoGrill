@@ -70,7 +70,7 @@ export default function Home() {
           {dataSite.products.length > 1 && (
             <ProductSection
               withCategoryFilter={true}
-              title='All Courses'
+              title='All Products'
               gridColumns={4}
               variant='grid'
               productsPerPage={1}
