@@ -31,11 +31,11 @@ export const navData = [
 ];
 export const footerData = [
   {
-    href: '/pdf/AP-MESANEX-MAYO-2024.pdf',
+    href: '/pdf/AP-POZO.pdf',
     label: 'Privacy',
   },
   {
-    href: '/pdf/TYC-MESANEX-MAYO-2024.pdf',
+    href: '/pdf/TYC-POZO.pdf',
     label: 'Terms',
   },
   {
